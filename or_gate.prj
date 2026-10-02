@@ -1,3 +1,0 @@
-vhdl work "not_gate.vhd"
-vhdl work "nand_gate.vhd"
-vhdl work "or_gate.vhd"
